@@ -4,9 +4,7 @@
 #  run command 
 _____________________________________
 
-Turmux command 
-# Encrypt
-# Decrypt.py
+
 
 --------------------------------------
 #  Emoji Encrypt
